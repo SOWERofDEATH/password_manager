@@ -1,6 +1,6 @@
-import Nav from "./components/nav/Nav";
-import CredentialsList from "./components/CredentialsList/CredentialsList";
-import Footer from "./components/footer/Footer";
+import Nav from "./components/Nav";
+import CredentialsList from "./components/CredentialsList";
+import Footer from "./components/Footer";
 
 function App() {
 

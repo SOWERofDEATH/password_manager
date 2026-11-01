@@ -1,4 +1,4 @@
-import type { Credentials } from "../../types/Credentials";
+import type { Credentials } from "../types/Credentials";
 import { useState } from "react";
 
 function CredentialsCard(props: Credentials) {

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Tooltip, Modal } from "bootstrap";
-import type { Credentials } from "../../types/Credentials";
+import type { Credentials } from "../types/Credentials";
 
 type formProps = {
 	add: (newElement: Omit<Credentials, "id">) => void,

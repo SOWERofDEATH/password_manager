@@ -1,7 +1,7 @@
 import { useState } from "react";
-import type { Credentials } from "../../types/Credentials";
-import CredentialsCard from "../CredentialsCard/CredentialsCard";
-import CredentialsForm from "../CredentialsForm/CredentialsForm";
+import type { Credentials } from "../types/Credentials";
+import CredentialsCard from "./CredentialsCard";
+import CredentialsForm from "./CredentialsForm";
 
 
 function CredentialsList() {
