@@ -19,7 +19,7 @@ function CredentialsCard(props: Credentials) {
 
 	return (
 		<div className="col-12 col-sm-6 col-lg-4 col-xl-3">
-			<div className="card border shadow-sm rounded h-100">
+			<div className="card border shadow-sm rounded-5 h-100">
 				<div className="card-body p-3">
 
 					<div className="d-flex align-items-center gap-3 mb-3">

@@ -22,7 +22,7 @@ function CredentialsForm(props: formProps) {
 			tooltips.forEach((t) => {
 				new Tooltip(t);
 			});
-		}, []);
+	}, []);
 
 	async function successIcons() {
 		try {
