@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
@@ -33,3 +34,7 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+=======
+# password_manager
+A simple password manager built with React, TypeScript, and Bootstrap. 
+>>>>>>> 17c57ad3acb8d0f0b8b518ecbe1a5f9de8e62abe
