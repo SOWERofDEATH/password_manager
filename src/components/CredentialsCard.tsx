@@ -80,10 +80,10 @@ function CredentialsCard(props: Credentials) {
 					<hr />
 
 					<div className="d-flex justify-content-end gap-2">
-						<button type="button" className="btn btn-sm btn-outline-secondary">
+						<button type="button" className="btn btn-sm btn-outline-secondary rounded-pill">
 							<i className="bi bi-pencil me-1"></i> Edit
 						</button>
-						<button type="button" className="btn btn-sm btn-outline-danger">
+						<button type="button" className="btn btn-sm btn-outline-danger rounded-pill">
 							<i className="bi bi-trash me-1"></i> Delete
 						</button>
 					</div>
